@@ -61,7 +61,7 @@
     "eslint-plugin-react": "^7.5.1",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.6",
-    "highlight.js": "^8.6.0",
+    "highlight.js": "^10.1.2",
     "husky": "^0.14.3",
     "isogram": "^0.5.0",
     "js-yaml": "^3.3.1",
